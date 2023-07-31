@@ -8,8 +8,8 @@
 - 🗣️ I'm a native speaker of Spanish 🇦🇷, Welsh 🏴󠁧󠁢󠁷󠁬󠁳󠁿 and English 🇬🇧. I also speak French 🇫🇷 and have learnt Mandarin Chinese 🇨🇳. I'm currently learning Croatian 🇭🇷.
 - I'd love to learn more about cyber security, app development and improve my knowledge of accessibility standards.
 
-<h3 align="left">Connect with me on here :) </h3>
-<p align="left">
+<h3 align="left">Connect with me</h3>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/azul-dp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azul-dp/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
